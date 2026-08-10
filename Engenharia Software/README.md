@@ -7,3 +7,12 @@ O trecho propõe que "Engenharia de Software" é mais do que apenas escrever có
 Tempo e mudança: Como o código muda e se adapta ao longo de sua vida útil;
 Escala e crescimento: Como organizações vão ter que se adaptar ao longo de sua evolução;
 Trade-offs e custos: Como uma organização toma decisões levando em consideração as lições dos outros dois pilares.
+
+# Atividade 3
+
+Desempenho x Consumo de memória:
+Um programa pode utilizar mais memória RAM para armazenar dados temporariamente e executar tarefas mais rapidamente. Mas isso aumenta o consumo de memória e pode prejudicar dispositivos com pouca RAM.
+Segurança x Facilidade de uso:
+Adicionar autenticação em duas etapas e senhas mais complexas aumenta a segurança de um sistema, mas pode tornar o acesso mais demorado e menos conveniente para o usuário.
+Qualidade x Custo de desenvolvimento:
+Investir mais tempo no desenvolvimento pode resultar em um software de maior qualidade e confiabilidade. Mas isso aumenta o custo e o tempo necessário para lançar o sistema.
